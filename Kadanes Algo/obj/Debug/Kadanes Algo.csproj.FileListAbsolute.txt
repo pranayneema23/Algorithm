@@ -1,0 +1,7 @@
+D:\Others\Learning\.Net Concept\Kadanes Algo\bin\Debug\Kadanes Algo.exe.config
+D:\Others\Learning\.Net Concept\Kadanes Algo\bin\Debug\Kadanes Algo.exe
+D:\Others\Learning\.Net Concept\Kadanes Algo\bin\Debug\Kadanes Algo.pdb
+D:\Others\Learning\.Net Concept\Kadanes Algo\obj\Debug\Kadanes Algo.csprojAssemblyReference.cache
+D:\Others\Learning\.Net Concept\Kadanes Algo\obj\Debug\Kadanes Algo.csproj.CoreCompileInputs.cache
+D:\Others\Learning\.Net Concept\Kadanes Algo\obj\Debug\Kadanes Algo.exe
+D:\Others\Learning\.Net Concept\Kadanes Algo\obj\Debug\Kadanes Algo.pdb
