@@ -1,0 +1,7 @@
+D:\Others\Learning\.Net Concept\Kahns Algorithm\bin\Debug\Kahns Algorithm.exe.config
+D:\Others\Learning\.Net Concept\Kahns Algorithm\bin\Debug\Kahns Algorithm.exe
+D:\Others\Learning\.Net Concept\Kahns Algorithm\bin\Debug\Kahns Algorithm.pdb
+D:\Others\Learning\.Net Concept\Kahns Algorithm\obj\Debug\Kahns Algorithm.csprojAssemblyReference.cache
+D:\Others\Learning\.Net Concept\Kahns Algorithm\obj\Debug\Kahns Algorithm.csproj.CoreCompileInputs.cache
+D:\Others\Learning\.Net Concept\Kahns Algorithm\obj\Debug\Kahns Algorithm.exe
+D:\Others\Learning\.Net Concept\Kahns Algorithm\obj\Debug\Kahns Algorithm.pdb
