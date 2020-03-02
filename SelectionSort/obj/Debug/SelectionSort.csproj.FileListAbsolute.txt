@@ -1,0 +1,7 @@
+D:\Others\Learning\.Net Concept\SelectionSort\bin\Debug\SelectionSort.exe.config
+D:\Others\Learning\.Net Concept\SelectionSort\bin\Debug\SelectionSort.exe
+D:\Others\Learning\.Net Concept\SelectionSort\bin\Debug\SelectionSort.pdb
+D:\Others\Learning\.Net Concept\SelectionSort\obj\Debug\SelectionSort.csprojAssemblyReference.cache
+D:\Others\Learning\.Net Concept\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+D:\Others\Learning\.Net Concept\SelectionSort\obj\Debug\SelectionSort.exe
+D:\Others\Learning\.Net Concept\SelectionSort\obj\Debug\SelectionSort.pdb
