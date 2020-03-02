@@ -1,0 +1,7 @@
+D:\Others\Learning\.Net Concept\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache
+D:\Others\Learning\.Net Concept\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+D:\Others\Learning\.Net Concept\BubbleSort\bin\Debug\BubbleSort.exe.config
+D:\Others\Learning\.Net Concept\BubbleSort\bin\Debug\BubbleSort.exe
+D:\Others\Learning\.Net Concept\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\Others\Learning\.Net Concept\BubbleSort\obj\Debug\BubbleSort.exe
+D:\Others\Learning\.Net Concept\BubbleSort\obj\Debug\BubbleSort.pdb
