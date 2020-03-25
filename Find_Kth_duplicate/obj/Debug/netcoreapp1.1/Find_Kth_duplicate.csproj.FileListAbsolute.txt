@@ -1,0 +1,9 @@
+C:\Data\Others\Learning\.Net Concept\Find_Kth_duplicate\bin\Debug\netcoreapp1.1\Find_Kth_duplicate.deps.json
+C:\Data\Others\Learning\.Net Concept\Find_Kth_duplicate\bin\Debug\netcoreapp1.1\Find_Kth_duplicate.runtimeconfig.json
+C:\Data\Others\Learning\.Net Concept\Find_Kth_duplicate\bin\Debug\netcoreapp1.1\Find_Kth_duplicate.runtimeconfig.dev.json
+C:\Data\Others\Learning\.Net Concept\Find_Kth_duplicate\bin\Debug\netcoreapp1.1\Find_Kth_duplicate.dll
+C:\Data\Others\Learning\.Net Concept\Find_Kth_duplicate\bin\Debug\netcoreapp1.1\Find_Kth_duplicate.pdb
+C:\Data\Others\Learning\.Net Concept\Find_Kth_duplicate\obj\Debug\netcoreapp1.1\Find_Kth_duplicate.csproj.CoreCompileInputs.cache
+C:\Data\Others\Learning\.Net Concept\Find_Kth_duplicate\obj\Debug\netcoreapp1.1\Find_Kth_duplicate.AssemblyInfo.cs
+C:\Data\Others\Learning\.Net Concept\Find_Kth_duplicate\obj\Debug\netcoreapp1.1\Find_Kth_duplicate.dll
+C:\Data\Others\Learning\.Net Concept\Find_Kth_duplicate\obj\Debug\netcoreapp1.1\Find_Kth_duplicate.pdb
